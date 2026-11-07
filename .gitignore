@@ -66,3 +66,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Compiled executable files
+*.exe
+
+node_modules/
+**/node_modules/
